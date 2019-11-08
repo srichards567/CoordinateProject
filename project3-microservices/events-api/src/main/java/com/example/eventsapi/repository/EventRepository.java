@@ -8,7 +8,7 @@ import java.util.List;
 
 @Repository
 public interface EventRepository extends CrudRepository <Event, Long> {
-    List<Event> findByNameContaining(String name);
+    List<Event> findByNameContaining(String normalized, String name);
     List<Event> findByDateExists(String date);
-    List<Event> 
+    List<Event> findByDescriptionContaining(String content);
 }

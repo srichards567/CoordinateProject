@@ -10,7 +10,7 @@ public interface EventService {
 
     public Iterable<Event> searchByName(String name);
 
-    public HttpStatus createEvent(long id);
+    public HttpStatus createEvent(Event event);
 
     public HttpStatus deleteEvent(long id);
 

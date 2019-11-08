@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23fa2e4f-a720-4377-ba10-ce757bbeff77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/model/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/repository/EventRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-api/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/controller/EventsController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../event" beforeDir="false" afterPath="$PROJECT_DIR$/../event" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/EventsApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events-api/src/test/java/com/example/eventsapi/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/src/test/java/com/example/eventsapi/EventsApiApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/users-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/repository/EventRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/repository/EventRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventService.java" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventServiceImpl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -116,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573226667125</updated>
-      <workItem from="1573226668559" duration="4970000" />
+      <workItem from="1573226668559" duration="6901000" />
     </task>
     <servers />
   </component>
