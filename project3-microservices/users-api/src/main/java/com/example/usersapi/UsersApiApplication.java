@@ -13,7 +13,7 @@ public class UsersApiApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		return "some users";
+		return "users";
 	}
 
 	public static void main(String[] args) {

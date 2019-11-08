@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba5489b-4a43-4978-8833-1dc8f771b51a" name="Default Changelist" comment="" />
+    <list default="true" id="47b0fe3f-6726-4209-aedb-80acd7f0c2a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users-api/src/main/java/com/example/usersapi/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users-api/src/main/java/com/example/usersapi/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../event" beforeDir="false" afterPath="$PROJECT_DIR$/../event" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/users-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-api/src/main/java/com/example/usersapi/UsersApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/users-api/src/main/java/com/example/usersapi/UsersApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-api/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/users-api/src/main/resources/application-dev.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -17,17 +38,19 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1TARNhk4hhlKQFMXK1EmU8kFl2V" />
+  <component name="ProjectId" id="1TJrhisxRLajeYmabA1dByEZk1T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/users-api/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/users-api/src/main/resources" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,14 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
-    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="users-api" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.usersapi.UsersApiApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="events-api" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eventsapi.DemoApplication" />
@@ -59,6 +75,13 @@
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="users-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.usersapi.UsersApiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,16 +99,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ba5489b-4a43-4978-8833-1dc8f771b51a" name="Default Changelist" comment="" />
-      <created>1572900874669</created>
+      <changelist id="47b0fe3f-6726-4209-aedb-80acd7f0c2a6" name="Default Changelist" comment="" />
+      <created>1573189161889</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572900874669</updated>
-      <workItem from="1572900875923" duration="1228000" />
+      <updated>1573189161889</updated>
+      <workItem from="1573189166428" duration="2477000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
