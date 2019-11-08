@@ -1,13 +1,13 @@
 # CoordinateProject
 
-#Technologies Used
+# Technologies Used
 
-#General Approach
+# General Approach
 
-#Unsolved Problems and Major Hurdles
+# Unsolved Problems and Major Hurdles
 
-#Planning Documentation and Wireframes
+# Planning Documentation and Wireframes
 
-#Installation Instructions
+# Installation Instructions
 
-#User Stories
+# User Stories
