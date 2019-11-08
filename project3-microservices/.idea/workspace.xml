@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47b0fe3f-6726-4209-aedb-80acd7f0c2a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/users-api/src/main/java/com/example/usersapi/controller/UsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users-api/src/main/java/com/example/usersapi/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users-api/src/main/java/com/example/usersapi/service/UserServiceImpl.java" afterDir="false" />
+    <list default="true" id="23fa2e4f-a720-4377-ba10-ce757bbeff77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/model/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/repository/EventRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/service/EventServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events-api/src/main/resources/application-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../event" beforeDir="false" afterPath="$PROJECT_DIR$/../event" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/src/main/java/com/example/eventsapi/EventsApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-api/src/test/java/com/example/eventsapi/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/events-api/src/test/java/com/example/eventsapi/EventsApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/users-api/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -34,19 +41,28 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1TJrhisxRLajeYmabA1dByEZk1T" />
+  <component name="ProjectId" id="1TL5jEz8ER0YUD2X8FoW750nvJN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/events-api/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/events-api/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,10 +76,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemoApplication">
+  <component name="RunManager" selected="Spring Boot.UsersApiApplication">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="events-api" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eventsapi.DemoApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eventsapi.EventsApiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,12 +111,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47b0fe3f-6726-4209-aedb-80acd7f0c2a6" name="Default Changelist" comment="" />
-      <created>1573189161889</created>
+      <changelist id="23fa2e4f-a720-4377-ba10-ce757bbeff77" name="Default Changelist" comment="" />
+      <created>1573226667125</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573189161889</updated>
-      <workItem from="1573189166428" duration="4473000" />
+      <updated>1573226667125</updated>
+      <workItem from="1573226668559" duration="4970000" />
     </task>
     <servers />
   </component>
