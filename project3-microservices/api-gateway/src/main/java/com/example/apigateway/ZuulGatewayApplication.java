@@ -14,4 +14,5 @@ public class ZuulGatewayApplication {
 		SpringApplication.run(ZuulGatewayApplication.class, args);
 	}
 
+
 }
